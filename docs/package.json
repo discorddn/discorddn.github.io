@@ -1,0 +1,19 @@
+{
+  "name": "discord.dn-docs",
+  "version": "0.0.1",
+  "description": "Discord.DN Documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "DARKDRAGON532",
+    "email": ""
+  },
+  "repository": "discorddn/discorddn.github.io/discord.dn-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
