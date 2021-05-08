@@ -13,6 +13,7 @@ cd docs/.vuepress/dist
 # echo 'www.example.com' > CNAME
 
 git init
+echo "discorddn.mod.land" > CNAME
 git add -A
 git commit -m 'deploy'
 git branch -M main
